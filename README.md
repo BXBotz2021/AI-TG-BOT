@@ -29,10 +29,8 @@ Welcome to the AI Bot Project! This bot is designed to assist with various tasks
 
 You can deploy this bot to Heroku using the button below:
 
-[![Deploy](https://img.yourhosting.com/your-button-image.png)](https://heroku.com/deploy?template=https://github.com/BXBotz2021/AI-TG-BOT/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BXBotz2021/AI-TG-BOT/tree/main)
 
-
-](https://github.com/BXBotz2021/AI-TG-BOT/tree/main)
 ## 🛠 Installation
 
 To install the AI Bot, follow these steps:
