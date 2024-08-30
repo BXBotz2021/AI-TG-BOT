@@ -36,6 +36,20 @@ You can deploy this bot to Heroku using the button below:
 To install the AI Bot, follow these steps:
 
 -------------------------------------------------------------
+
+## How to Get Your API ID and API Hash
+
+To run this bot, you need to obtain an API ID and API Hash from Telegram. Follow the steps below:
+
+1. Visit [my.telegram.org](https://my.telegram.org) and log in with your Telegram account.
+2. Click on "API Development Tools."
+3. Fill in the required details like App title, Short name, etc., and create your application.
+4. After creating the application, you will receive your **API ID** and **API Hash**.
+5. Use these values in the configuration of the bot (e.g., in the `config.py` file).
+
+Make sure to keep your API ID and API Hash secure and never share them publicly.
+
+
 To obtain an OpenAI API key, follow these steps:
 
 ### **1. Sign Up for an OpenAI Account**
