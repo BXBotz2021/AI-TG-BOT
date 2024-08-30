@@ -25,6 +25,13 @@ Welcome to the AI Bot Project! This bot is designed to assist with various tasks
 - **Language Translation**: Translate phrases and sentences in real-time.
 - **Sentiment Analysis**: Determine the emotional tone behind a series of words.
 
+## Deployment
+
+You can deploy this bot to Heroku using the button below:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/your-repo-name)
+
+
 ## 🛠 Installation
 
 To install the AI Bot, follow these steps:
